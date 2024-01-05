@@ -1,4 +1,5 @@
-# pyspark_for_dummies_and_experts
+# spark_databricks_cert
+
 Repository for the pyspark course for dummies and experts
 
 How to use it locally
@@ -8,7 +9,8 @@ To be able to work in your own PC, it is necessary to have an IDE as a developme
 
 1. Clone the repository using git.
 ```bash
-https://github.com/javiermolinag/pyspark_for_dummies_and_experts.git
+https://github.com/javiermolinag/spark_databricks_cert
+.git
 ```
 2. We recommend to have python 3.9. Create a virtual environment called venv with:
 ```bash
